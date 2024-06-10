@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to SE/DevOps/Cloud.
+- 🔭 I’m currently working on Container, Container orchestration system, and Cloud Computing Platform.
+- 🌱 I’m currently learning DevOps tools.
+- 💬 Ask me about anything related to SDE/DevOps/Cloud.
 - 📫 How to reach me: kastanie99@qq.com
 - 😄 Read more about my Blog: [here](http://www.kastanie.top/)
 
@@ -21,3 +21,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) v
 ![](https://raw.githubusercontent.com/0YHR0/0YHR0/main/dist/github-contribution-grid-snake.svg)
 
 .
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=0YHR0&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+  
