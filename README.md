@@ -31,20 +31,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) v
 
 | Java | Golang | Python3 | HTML | CSS | JS | TS | PHP | C | C++ | VHDL |
 |----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html"  alt="Html" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css"  alt="Css" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/0YHR0/0YHR0/main/img/vhdl.svg" title="VHDL"  alt="VHDL" width="55" height="55"/>|
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html"  alt="Html" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css"  alt="Css" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/>
+
+
+
+
+
+
+
 
           
 .
