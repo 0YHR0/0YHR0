@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=2000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Haoran)](https://git.io/typing-svg)
-<!-- [![Yang Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=0YHR0)](https://github.com/anuraghazra/github-readme-stats)
--->
 
+<a title="github" target="_blank" href="https://github.com/0YHR0"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfjqz177&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 
 
 
@@ -12,12 +11,33 @@
 - 😄 Read more about my Blog: [here](http://www.kastanie.top/)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) visitor,Thank You!😆
+**You are my** ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) **visitor,Thank You!😆**
 
 [![Haoran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0YHR0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0YHR0&layout=compact&theme=tokyonight)
 
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 80px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YHR0&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+    <td style="border: none; padding-left: 80px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=0YHR0&theme=ambient_gradient&show_icons=true&hide=contribs" alt="Haoran's GitHub stats" />
+    </td>
+  </tr>
+</table>
+
+<!--
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=0YHR0" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=0YHR0" />
+</div>
+-->
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0YHR0&hide=javascript,HTML,css)](https://github.com/0YHR0/github-readme-stats)
+-->
 ![](https://raw.githubusercontent.com/0YHR0/0YHR0/main/dist/github-contribution-grid-snake.svg)
 
 
@@ -27,7 +47,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) v
 <div>
   
 ### Languages(Listed according to the proficiency)
-
 
 | Java | Golang | Python3 | HTML | CSS | JS | TS | PHP | C | C++ | VHDL |
 |----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|
