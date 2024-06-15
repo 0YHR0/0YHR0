@@ -65,6 +65,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/Mybatis-EC1C24?style=flat-square&logo=Mybatis&logoColor=white)
