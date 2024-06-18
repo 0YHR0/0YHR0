@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=2000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Haoran)](https://git.io/typing-svg)
 
-<a title="github" target="_blank" href="https://github.com/0YHR0"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfjqz177&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+<a title="github" target="_blank" href="https://github.com/0YHR0"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D0YHR0&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 
 
 
