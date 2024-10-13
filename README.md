@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Container, Container orchestration system, and Cloud Computing Platform.
 - 🌱 I’m currently learning DevOps tools.
-- 💬 Ask me about anything related to SDE/DevOps/Cloud.
+- 💬 Ask me about anything related to Cloud Native/DevOps/SDE/.
 - 📫 How to reach me: kastanie99@qq.com
 - 😄 Read more about my Blog: [here](https://www.kastanie.top/)
 
