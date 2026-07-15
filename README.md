@@ -11,7 +11,7 @@
 - 😄 Read more about my Blog: [here](https://www.kastanie.top/)
 
 
-**You are my** ![Visitor Count](https://profile-counter.glitch.me/0YHR0/count.svg) **visitor,Thank You!😆**
+**You are my** ![Profile views](https://komarev.com/ghpvc/?username=0YHR0&label=Profile%20views&color=0e75b6&style=flat) **visitor, thank you! 😆**
 
 [![Haoran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0YHR0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -20,10 +20,10 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 80px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YHR0&layout=compact&theme=tokyonight" alt="Top Langs" />
+      <img src="./profile/top-langs.svg" alt="Top Langs" />
     </td>
     <td style="border: none; padding-left: 80px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=0YHR0&theme=ambient_gradient&show_icons=true&hide=contribs" alt="Haoran's GitHub stats" />
+      <img src="./profile/stats.svg" alt="Haoran's GitHub stats" />
     </td>
   </tr>
 </table>
