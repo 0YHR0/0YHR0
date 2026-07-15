@@ -42,8 +42,8 @@
 
 
   
+<!--
 ## Languages
-
 ![Java](https://img.shields.io/badge/Java-73BA25?style=flat-square&logo=openjdk&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -107,6 +107,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+
+-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=0YHR0&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   
