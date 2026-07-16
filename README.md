@@ -4,9 +4,10 @@
 
 
 
-- 🔭 I’m currently working on Container, Container orchestration system, and Cloud Computing Platform.
-- 🌱 I’m currently learning DevOps tools.
-- 💬 Ask me about anything related to Cloud Native/DevOps/SDE/.
+- 🔭 I focus on building AI infrastructure on Kubernetes.
+- 🧠 My main interests include AI inference, workload scheduling, AI traffic routing, and agent platforms.
+- ☁️ I’m passionate about building scalable, efficient, and cloud-native systems for AI workloads.
+- 💬 Ask me about Kubernetes, AI Infrastructure, and Cloud Native.
 - 📫 How to reach me: kastanie99@qq.com
 - 😄 Read more about my Blog: [here](https://www.kastanie.top/)
 
