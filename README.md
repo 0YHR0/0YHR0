@@ -1,48 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=2000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Haoran)](https://git.io/typing-svg)
+# Hi, I'm Haoran 👋
 
-<a title="github" target="_blank" href="https://github.com/0YHR0"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D0YHR0&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+I build **AI infrastructure on Kubernetes**, focusing on scalable and efficient systems for AI workloads.
 
+- AI inference systems
+- Workload scheduling
+- AI traffic routing
+- Agent platforms
 
+[Blog](https://www.kastanie.top/) · [Email](mailto:kastanie99@qq.com)
 
-- 🔭 I focus on building AI infrastructure on Kubernetes.
-- 🧠 My main interests include AI inference, workload scheduling, AI traffic routing, and agent platforms.
-- ☁️ I’m passionate about building scalable, efficient, and cloud-native systems for AI workloads.
-- 💬 Ask me about Kubernetes, AI Infrastructure, and Cloud Native.
-- 📫 How to reach me: kastanie99@qq.com
-- 😄 Read more about my Blog: [here](https://www.kastanie.top/)
+## GitHub Stats
 
-
-**You are my** ![Profile views](https://komarev.com/ghpvc/?username=0YHR0&label=Profile%20views&color=0e75b6&style=flat) **visitor, thank you! 😆**
-
-[![Haoran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0YHR0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 80px;">
-      <img src="./profile/top-langs.svg" alt="Top Langs" />
-    </td>
-    <td style="border: none; padding-left: 80px;">
-      <img src="./profile/stats.svg" alt="Haoran's GitHub stats" />
-    </td>
-  </tr>
-</table>
-
-<!--
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=0YHR0" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=0YHR0" />
-</div>
--->
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0YHR0&hide=javascript,HTML,css)](https://github.com/0YHR0/github-readme-stats)
--->
-![](https://raw.githubusercontent.com/0YHR0/0YHR0/main/dist/github-contribution-grid-snake.svg)
-
-
-  
+<p>
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 <!--
 ## Languages
 ![Java](https://img.shields.io/badge/Java-73BA25?style=flat-square&logo=openjdk&logoColor=white)
