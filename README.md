@@ -1,11 +1,10 @@
 # Hi, I'm Haoran 👋
 
-I build **AI infrastructure on Kubernetes**, focusing on scalable and efficient systems for AI workloads.
+I work on **AI infrastructure**, spanning Kubernetes-native training and inference systems and secure runtime environments for AI agents.
 
-- AI inference systems
-- Workload scheduling
-- AI traffic routing
-- Agent platforms
+- Kubernetes-native AI training and inference
+- Workload scheduling and AI traffic routing
+- Agent platforms, secure sandboxes, and E2B-compatible runtimes
 
 [Blog](https://www.kastanie.top/) · [Email](mailto:kastanie99@qq.com)
 
