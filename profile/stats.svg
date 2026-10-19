@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yang Haoran&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 102, Total Commits  (last year) : 848, Total PRs: 193, Total Issues: 75</desc>
+        <desc id="descId">Total Stars Earned: 102, Total Commits  (last year) : 841, Total PRs: 193, Total Issues: 75</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.67305092503091;
+        stroke-dashoffset: 58.75124963569209;
       }
     }
   
@@ -191,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >848</text>
+      >841</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
